@@ -42,7 +42,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 ---
 
-## Portfolio Projects
+## Personal Projects
 *(In development — repositories coming soon)*
 
 | Project | Engine | Focus |
@@ -55,7 +55,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 ---
 
-## Case Studies
+## Professional Case Studies
 *Examples of tools and UI work from previous employment*
 
 | Case Study | Description | Skills Highlighted |
