@@ -65,7 +65,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 | **Artist Collaboration for UI tools** | Collaborated closely with artists and UX designers to implement tools for various design related tasks | Cross discipline collaboration, tools development |
 | **[Component-driven Data-Binder System](https://github.com/jglasspilon/DataBinderProjectSample)** | Designed and developed a component-driven Data-Binder system to modularize the binding of JSON data to UGUI components | Data binding, tools development |
 
-> *These case studies highlight my ability to deliver polished, functional tools and UI for real projects.*
+> *These case studies highlight my ability to deliver polished, functional tools and UI for real delivered projects.*
 
 ---
 
