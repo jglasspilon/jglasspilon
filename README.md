@@ -1,9 +1,10 @@
 # 💠 Julian Glass-Pilon — UI Developer (Unity & Unreal)
 
-### *I build responsive, intuitive, player-focused UI systems for games.*
+> UI is more than menus — it’s the player’s window into the game’s systems.  
+> My goal is to empower players by making that window **clear, intuitive, and delightful to use**.
 
 Hi! I’m **Julian**, a UI programmer who specializes in turning complex game systems into clean, streamlined player experiences.  
-I work across **Unity**, **Unreal Engine**, and **custom tools**, with a focus on:
+I work across **Unity** and **Unreal Engine**, with a focus on:
 
 - **Game HUDs and menus**  
 - **Dynamic data visualization**  
@@ -14,10 +15,6 @@ I work across **Unity**, **Unreal Engine**, and **custom tools**, with a focus o
 I’m passionate about building interfaces that **not only look good — they feel good**, and help players understand game systems effortlessly.
 
 ---
-
-## 🎯 My Philosophy
-> UI is more than menus — it’s the player’s window into the game’s systems.  
-> My goal is to make that window **clear, intuitive, and delightful to use**.
 
 ## Technical Skills
 
@@ -49,7 +46,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 | Project | Engine | Focus |
 |---------|--------|--------|
 | **Game Release Tracker (Mobile)** | Unity | Data visualization, public API consumption (IGDB), backend & frontend development |
-| **Omage to Metaphor Refantazio (Menu Remake)** | Unity | Menu logic & transitions, event-driven UI |
+| **Homage to Metaphor Refantazio (Menu Remake)** | Unity | Menu logic & transitions, event-driven UI |
 | **RPG Inventory, Shop interface and HUD** | Unreal | Modular UI logic & clean UX hierarchy |
 
 ---
