@@ -48,7 +48,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 | Project | Engine | Focus |
 |---------|--------|--------|
 | **Game Release Tracker (Mobile)** | Unity | Data visualization, public API consumption (IGDB), backend & frontend development |
-| **Homage to Metaphor Refantazio (Menu Remake)** | Unity | Menu logic & transitions, event-driven UI |
+| **Homage to Metaphor Refantazio (Menu Remake)** | Unity | Menu logic & transitions, data visualization, event-driven UI |
 | **RPG Inventory, Shop interface and HUD** | Unreal | Modular UI logic & clean UX hierarchy |
 
 > *These personal projects highlght my experience & passion for video games and game UI.*
