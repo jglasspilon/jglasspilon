@@ -78,6 +78,5 @@ I’m passionate about building interfaces that **not only look good — they fe
 ## Contact
 - **LinkedIn:** www.linkedin.com/in/julian-glass-pilon-97486896  
 - **Email:** jglasspilon.JS@outlook.com  
-- **GitHub Projects:** coming soon
 
 ---
