@@ -22,11 +22,11 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 ### Game Engines
 - Unity (C#)  
-- Unreal Engine (Blueprints + C++ fundamentals)
+- Unreal Engine (Blueprints & C++ fundamentals)
 
 ### UI Development
 - Unity UI Toolkit & UGUI  
-- Unreal UMG / Common UI  
+- Unreal UMG   
 - Responsive layouts  
 - Data-driven UI  
 - State machines & event-driven architecture  
@@ -36,7 +36,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 ### General Programming
 - C#  
 - Blueprint scripting  
-- Version control (Git)  
+- Version control (Git, Perforce, etc)  
 - Editor tooling  
 - Gameplay systems integration  
 
