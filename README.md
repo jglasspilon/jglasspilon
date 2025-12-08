@@ -8,9 +8,9 @@
 Hi! I’m **Julian**, a UI programmer who specializes in turning complex game systems into clean, streamlined player experiences.  
 I work across **Unity** and **Unreal Engine**, with a focus on:
 
-- **Game HUDs and menus**  
 - **Dynamic data visualization**  
 - **UI architecture & technical implementation**  
+- **Game HUDs and menus**  
 - **Animation, responsiveness, and UX polish**  
 - **Collaborating with UI/UX artists and designers**
 
