@@ -1,5 +1,4 @@
 # 💠 Julian Glass-Pilon — UI Developer (Unity & Unreal)
-
 <br></br>
 > UI is more than menus — it’s the player’s window into the game’s systems.  
 > My goal is to empower players by making that window **clear, intuitive, and delightful to use**.
