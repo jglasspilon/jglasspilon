@@ -35,11 +35,11 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 ### General Programming
 - C#  
-- Blueprint scripting  
-- Version control (Git, Perforce, etc)  
-- Editor tooling  
+- Blueprint scripting
 - Gameplay systems integration  
-
+- Editor tooling   
+- Version control (Git, Perforce, etc)
+  
 ---
 
 ## Personal Projects
