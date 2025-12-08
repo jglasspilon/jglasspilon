@@ -53,7 +53,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 ---
 
-## 📝 Case Studies
+## Case Studies
 *Examples of tools and UI work from previous employment*
 
 | Case Study | Description | Skills Highlighted |
@@ -67,13 +67,13 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 ---
 
-## 📌 What I’m Working On Now
+## What I’m Working On Now
 - Building and supporting a Game Release Tracker for personalized video game tracking on mobile devices using data from IGDB for latest game information (built in Unity). 
 - Building a turn based tactical RPG with customizable skills system (built in Unreal)
 
 ---
 
-## 📫 Contact
+## Contact
 - **LinkedIn:** www.linkedin.com/in/julian-glass-pilon-97486896  
 - **Email:** jglasspilon.JS@Outlook.com  
 - **GitHub Projects:** coming soon
