@@ -14,7 +14,7 @@ I work across **Unity** and **Unreal Engine**, with a focus on:
 - **Animation, responsiveness, and UX polish**  
 - **Collaborating with UI/UX artists and designers**
 
-I’m passionate about building interfaces that **not only look good — they feel good**, and help players understand game systems effortlessly.
+I’m passionate about building interfaces that **not only look good — they feel good**, and empower players to understand game systems effortlessly.
 
 ---
 
