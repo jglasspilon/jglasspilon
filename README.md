@@ -1,4 +1,4 @@
-<h1 align="center">Senior Game Developer | UI Expert | Teacher | Passionate Gamer</h1>
+<h1 align="center">Senior Game Developer • UI Expert • Teacher • Passionate Gamer</h1>
 
 <p align="center">
   UI is more than menus — it’s the player’s window into the game’s systems. <br>My goal is to empower players by making that window <b>clear, intuitive, and delightful to use</b>.  
