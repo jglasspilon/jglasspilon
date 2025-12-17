@@ -77,7 +77,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 |------------|------------|------------------|
 | **Broadcast On-Air Content Management Framework (Unity)** | Designed and developed a content management framework for Unity UGUI interactive graphics | Data visualization, animation, systems design |
 | **Broadcast On-Air Content Management Framework (Unreal)** | Designed and developed a content management framework for Unreal 3D interactive virtual sets | Data visualization, animation, systems design |
-| **Artist Collaboration for UI and integration tools** | Collaborated closely with artists and UX designers to implement tools for various design and integration tasks | Cross discipline collaboration, tools development, data binding |
+| **[Artist Collaboration for UI and integration tools](https://github.com/jglasspilon/UI-Design-Tools-Sample)** | Collaborated closely with artists and UX designers to implement tools for various design and integration tasks | Cross discipline collaboration, tools development, data binding |
 | **["No Code" Component-Driven Data-Binder System](https://github.com/jglasspilon/DataBinderProjectSample)** | Designed and developed a component-driven Data-Binder system to modularize the binding of JSON data to UGUI components | Data binding, tools development |
 
 > *These case studies highlight my ability to deliver polished, functional tools and UI for real delivered projects.*
