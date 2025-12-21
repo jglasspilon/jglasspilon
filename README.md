@@ -19,6 +19,11 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 ---
 
+## Design Philosophy
+I design UI systems that prioritize scalability, accessibility, and creative autonomy. My focus is on reducing implementation friction through data-driven, non-invasive tools that allow designers to iterate freely while maintaining technical robustness, performance, and long-term maintainability.
+
+---
+
 ## Technical Expertise
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
