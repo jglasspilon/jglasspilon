@@ -34,6 +34,18 @@ I’m passionate about building interfaces that **not only look good — they fe
 ![Perforce](https://img.shields.io/badge/Perforce-007ACC?style=for-the-badge&logo=perforce&logoColor=white)
   
 ---
+## Professional Case Studies
+*(In development — repositories coming soon)*
+
+| Case Study | Engine | Description | Skills Highlighted |
+|------------|--------|-------------|--------------------|
+| **Broadcast On-Air Content Management Framework (Unity)** | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | Designed and developed a content management framework for Unity UGUI interactive graphics | Data visualization, animation, systems design |
+| **Broadcast On-Air Content Management Framework (Unreal)** | ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine) | Designed and developed a content management framework for Unreal 3D interactive virtual sets | Data visualization, animation, systems design |
+| **[UI and integration tools](https://github.com/jglasspilon/UI-Design-Tools-Sample)** | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | A collection of Unity UI systems designed to improve iteration speed, accessibility, and design fidelity through close collaboration with artists and UX designers. | Cross discipline collaboration, tools development, data binding |
+
+> *These case studies highlight my ability to deliver polished, functional tools and UI for real delivered projects.*
+
+---
 
 ## Personal Projects
 *(In development — repositories coming soon)*
@@ -47,9 +59,14 @@ I’m passionate about building interfaces that **not only look good — they fe
   </thead>
   <tbody>
     <tr>
-      <td><strong>Game Release Tracker (Mobile)</strong></td>
+      <td><strong>(WIP) Tactical Turn-based RPG with Customizable Skill System</strong></td>
+      <td><img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine" alt="Unity" /></td>
+      <td>Game design, 3D game development</td>
+    </tr>
+    <tr>
+      <td><strong>(WIP) Game Release Tracker (Mobile)</strong></td>
       <td><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" alt="Unity" /></td>
-      <td>Data visualization, public API consumption (IGDB), backend & frontend development</td>
+      <td>Data visualization, public API consumption, backend & frontend development, app design</td>
     </tr>
     <tr>
       <td><strong>Homage to Metaphor Refantazio (Menu Remake)</strong></td>
@@ -67,19 +84,6 @@ I’m passionate about building interfaces that **not only look good — they fe
 </details>
 
 > *These personal projects highlght my experience & passion for software development, game development and game UI.*
-
----
-
-## Professional Case Studies
-*(In development — repositories coming soon)*
-
-| Case Study | Description | Skills Highlighted |
-|------------|------------|------------------|
-| **Broadcast On-Air Content Management Framework (Unity)** | Designed and developed a content management framework for Unity UGUI interactive graphics | Data visualization, animation, systems design |
-| **Broadcast On-Air Content Management Framework (Unreal)** | Designed and developed a content management framework for Unreal 3D interactive virtual sets | Data visualization, animation, systems design |
-| **[UI and integration tools](https://github.com/jglasspilon/UI-Design-Tools-Sample)** | A collection of Unity UI systems designed to improve iteration speed, accessibility, and design fidelity through close collaboration with artists and UX designers. | Cross discipline collaboration, tools development, data binding |
-
-> *These case studies highlight my ability to deliver polished, functional tools and UI for real delivered projects.*
 
 ---
 
