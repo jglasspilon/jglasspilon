@@ -85,7 +85,7 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 ## What I’m Working On Now
 - Building and supporting a Game Release Tracker for personalized video game tracking on mobile devices using data from IGDB for latest game information (built in Unity). 
-- Building a turn based tactical RPG with customizable skills system (built in Unreal)
+- Building a turn based tactical RPG with a customizable skills system (built in Unreal)
 
 ---
 
