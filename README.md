@@ -52,7 +52,7 @@ I design UI systems that prioritize scalability, accessibility, and creative aut
 
 ---
 
-## Personal Projects
+## Game Projects
 *(In development — repositories coming soon)*
 <table>
   <thead>
