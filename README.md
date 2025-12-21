@@ -88,7 +88,7 @@ I design UI systems that prioritize scalability, accessibility, and creative aut
 
 </details>
 
-> *These personal projects highlght my experience & passion for software development, game development and game UI.*
+> *These projects highlght my experience & passion for game related software development, game development and game UI.*
 
 ---
 
