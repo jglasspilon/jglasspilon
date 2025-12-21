@@ -39,8 +39,8 @@ I’m passionate about building interfaces that **not only look good — they fe
 
 | Case Study | Engine | Description | Skills Highlighted |
 |------------|--------|-------------|--------------------|
-| **Broadcast On-Air Content Management Framework (Unity)** | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | Designed and developed a content management framework for Unity UGUI interactive graphics | Data visualization, animation, systems design |
-| **Broadcast On-Air Content Management Framework (Unreal)** | ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine) | Designed and developed a content management framework for Unreal 3D interactive virtual sets | Data visualization, animation, systems design |
+| **Broadcast On-Air Content Management Framework (Unity)** | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | Broadcast-friendly Unity framework designed to streamline the control and creation of data driven graphics and increase iteration speed | Data visualization, animation, systems design |
+| **Broadcast On-Air Content Management Framework (Unreal)** | ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine) | Broadcast-friendly Unreal framework designed to streamline the control and creation of data driven graphics with protocol agnostic data handling | Data visualization, animation, systems design |
 | **[UI and integration tools](https://github.com/jglasspilon/UI-Design-Tools-Sample)** | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | A collection of Unity UI systems designed to improve iteration speed, accessibility, and design fidelity through close collaboration with artists and UX designers. | Cross discipline collaboration, tools development, data binding |
 
 > *These case studies highlight my ability to deliver polished, functional tools and UI for real delivered projects.*
