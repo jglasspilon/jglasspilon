@@ -17,9 +17,7 @@ I work across **Unity** and **Unreal Engine**, with a focus on:
 
 I’m passionate about building interfaces that **not only look good — they feel good**, and empower players to understand game systems effortlessly.
 
----
-
-## Design Philosophy
+### Development Philosophy
 I design UI systems that prioritize scalability, accessibility, and creative autonomy. My focus is on reducing implementation friction through data-driven, non-invasive tools that allow designers to iterate freely while maintaining technical robustness, performance, and long-term maintainability.
 
 ---
