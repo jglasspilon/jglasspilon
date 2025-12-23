@@ -18,7 +18,7 @@ I work across **Unity** and **Unreal Engine**, with a focus on:
 I’m passionate about building interfaces that **not only look good — they feel good**, and empower players to understand game systems effortlessly.
 
 ### Development Philosophy
-I design UI systems that prioritize scalability, accessibility, and creative autonomy. My focus is on reducing implementation friction through data-driven, non-invasive tools that allow designers to iterate freely while maintaining technical robustness, performance, and long-term maintainability.
+I design UI systems that are scalable, reliable, and built for creative freedom. My focus is on frameworks that start predictably, adapt quickly, and empower teams to iterate without friction. By keeping architectures clean and responsibilities clear, I ensure that new ideas can be introduced without breaking what already works. The result: UI foundations that are robust today and flexible enough to grow with tomorrow’s challenges.
 
 ---
 
@@ -38,7 +38,7 @@ I design UI systems that prioritize scalability, accessibility, and creative aut
   
 ---
 ## Professional Case Studies
-*(In development — repositories coming soon)*
+> *These case studies highlight my ability to deliver polished, functional tools and UI for real delivered projects.*
 
 | Case Study | Engine | Description | Skills Highlighted |
 |------------|--------|-------------|--------------------|
@@ -46,12 +46,13 @@ I design UI systems that prioritize scalability, accessibility, and creative aut
 | **[Data-Driven Touchscreen Interactive Framework for Broadcast](https://github.com/jglasspilon/UnityFramework)** | ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | Broadcast-friendly Unity framework designed to streamline the control and creation of data driven graphics and increase iteration speed | Data visualization, animation, systems & framework design, software architecure |
 | **[Data-Driven AR&VR Graphic Framework for Broadcast](https://github.com/jglasspilon/UnrealFramework)** | ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine) | Broadcast-friendly Unreal framework designed to streamline the control and creation of data driven graphics for augmented reality and virtual reality with protocol agnostic data handling. | Data visualization, animation, systems & framework design, software architecure |
 
-> *These case studies highlight my ability to deliver polished, functional tools and UI for real delivered projects.*
+
 
 ---
 
 ## Game Projects
-*(In development — repositories coming soon)*
+*(In development — link to repositories coming soon)*
+> *These projects highlght my experience & passion for game related software development, game development and game UI.*
 <table>
   <thead>
     <tr>
@@ -85,8 +86,6 @@ I design UI systems that prioritize scalability, accessibility, and creative aut
 </table>
 
 </details>
-
-> *These projects highlght my experience & passion for game related software development, game development and game UI.*
 
 ---
 
