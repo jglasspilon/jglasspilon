@@ -6,19 +6,19 @@
 
 ---
 
-Hi! I’m **Julian**, a UI programmer who specializes in turning complex game systems into clean, streamlined player experiences.  
+Hi! I’m **Julian**, a seasoned game programmer who specializes in turning complex game systems into clean, streamlined player experiences.  
 I work across **Unity** and **Unreal Engine**, with a focus on:
 
 - **Dynamic data visualization**  
 - **UI architecture & technical implementation**  
 - **Game HUDs and menus**  
 - **Animation, responsiveness, and UX polish**  
-- **Collaborating with UI/UX artists and designers**
+- **Collaborating with UI/UX artists and game designers**
 
 I’m passionate about building interfaces that **not only look good — they feel good**, and empower players to understand game systems effortlessly.
 
 ### Development Philosophy
-I design UI systems that are scalable, reliable, and built for creative freedom. My focus is on frameworks that start predictably, adapt quickly, and empower teams to iterate without friction. By keeping architectures clean and responsibilities clear, I ensure that new ideas can be introduced without breaking what already works. The result: UI foundations that are robust today and flexible enough to grow with tomorrow’s challenges.
+I design systems that are scalable, reliable, and built for creative freedom. My focus is on creating frameworks, tools and features that start predictably, adapt quickly, and empower teams to iterate without friction. By keeping architectures clean and responsibilities clear, I ensure that new ideas can be introduced without breaking what already works. The result: technical foundations that are robust today and flexible enough to grow with tomorrow’s challenges.
 
 ---
 
