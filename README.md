@@ -95,5 +95,5 @@ I design systems that are scalable, reliable, and built for creative freedom. My
 ---
 
 ## Contact
-- **LinkedIn:** www.linkedin.com/in/julian-glass-pilon-97486896  
+- **LinkedIn:** www.linkedin.com/in/julian-glass-pilon  
 - **Email:** jglasspilon.JS@outlook.com  
