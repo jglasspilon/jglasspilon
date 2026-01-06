@@ -49,7 +49,7 @@ I design UI systems that are scalable, reliable, and built for creative freedom.
 
 
 ---
-
+<!--
 ## Game Projects
 *(In development — link to repositories coming soon)*
 > *These projects highlght my experience & passion for game related software development, game development and game UI.*
@@ -85,9 +85,8 @@ I design UI systems that are scalable, reliable, and built for creative freedom.
   </tbody>
 </table>
 
-</details>
-
 ---
+-->
 
 ## What I’m Working On Now
 - Building and supporting a Game Release Tracker for personalized video game tracking on mobile devices using data from IGDB for latest game information (built in Unity). 
