@@ -35,7 +35,8 @@ I design systems that are scalable, reliable, and built for creative freedom. My
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-007ACC?style=for-the-badge&logo=perforce&logoColor=white)
-  
+
+<!--  
 ---
 ## Professional Case Studies
 > *These case studies highlight my ability to deliver polished, functional tools and UI for real delivered projects.*
@@ -49,7 +50,7 @@ I design systems that are scalable, reliable, and built for creative freedom. My
 
 
 ---
-<!--
+
 ## Game Projects
 *(In development — link to repositories coming soon)*
 > *These projects highlght my experience & passion for game related software development, game development and game UI.*
