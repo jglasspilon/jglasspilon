@@ -89,10 +89,6 @@ I design systems that are scalable, reliable, and built for creative freedom. My
 ---
 -->
 
-## What I’m Working On Now
-- Building and supporting a Game Release Tracker for personalized video game tracking on mobile devices using data from IGDB for latest game information (built in Unity). 
-- Building a turn based tactical RPG with a customizable skills system (built in Unreal).
-
 ---
 
 ## Contact
